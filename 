@@ -1,0 +1,10 @@
+[33mcommit 95ba37ecfd93b81888834447385b8a666b905fb5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Viktor Filatov <fvv.edu@gmail.com>
+Date:   Thu Jun 25 14:39:43 2020 +0300
+
+    add practice
+
+src/main/java/com/fvv_edu/javacore/practice/exercise01/Field.java
+src/main/java/com/fvv_edu/javacore/practice/exercise01/GameLogic.java
+src/main/java/com/fvv_edu/javacore/practice/exercise01/GameLogic2.java
+src/main/java/com/fvv_edu/javacore/practice/exercise01/GameRunner.java

@@ -3,7 +3,7 @@ package main.java.com.fvv_edu.javacore.chapter09.p1;
 public class SamePackage {
 
     SamePackage() {
-        Protection p =new Protection();
+        Protection p = new Protection();
         System.out.println("конструктор этого же пакета");
         System.out.println("n = " + p.n);
 
