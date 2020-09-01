@@ -1,0 +1,1 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZлжны быть выведены в массив

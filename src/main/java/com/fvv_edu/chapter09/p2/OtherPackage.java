@@ -1,7 +1,6 @@
 package main.java.com.fvv_edu.chapter09.p2;
 
 import main.java.com.fvv_edu.chapter09.p1.Protection;
-import main.java.com.fvv_edu.javacore.chapter09.p1.*;
 
 public class OtherPackage {
 

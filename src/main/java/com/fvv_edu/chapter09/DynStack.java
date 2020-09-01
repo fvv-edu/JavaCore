@@ -55,6 +55,7 @@ class IFTest3 {
 
         mystack = ds;
         for (int i=0; i<12; i++) mystack.push(i);
+        for (int i=0; i<7; i++) mystack.push(i);
 
         mystack = fs;
         for (int i=0; i<8; i++) mystack.push(i);

@@ -1,4 +1,4 @@
-package main.java.com.fvv_edu.javacore.chapter18;
+package main.java.com.fvv_edu.chapter18;
 
 import java.util.ArrayList;
 
